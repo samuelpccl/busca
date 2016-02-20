@@ -1,0 +1,47 @@
+body{
+	background: #adff2f;
+}
+
+header{
+		width: 1000px	;
+		padding: 50px;
+		margin: 0 auto;
+		text-align: center;
+		background: #adff2f;	
+}
+
+header input{
+	width: 40%;
+	padding: 8px;
+	margin: 0 auto;
+}
+
+header button{padding: 8px;	}
+
+footer{
+	width: 100%;
+	text-align: center;
+}
+
+article{
+	text-align: center;
+	padding: 50px;
+	background: white;
+	margin: 0 10%;
+	border-radius:20px ;	
+}
+
+footer p{
+	color: #000;
+
+}
+
+button{
+	border-radius: 25px 0;
+	background: green;
+	color: white;
+}
+
+h1{
+	font-size: 2em;
+}
